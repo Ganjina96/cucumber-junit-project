@@ -23,6 +23,7 @@
                     <parallel>methods</parallel>
                     <threadCount>4</threadCount>
                     <testFailureIgnore>true</testFailureIgnore>
+                    <perCoreThreadCount>false</perCoreThreadCount>
                     <includes>
                         <include>*/CukesRunner.java</include>
                     </includes>
